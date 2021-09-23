@@ -4,7 +4,9 @@
     justify-content: space-between;
     width: 100%;
     font-weight: 500;
+
     box-sizing: border-box;
+    margin-bottom: 20px;
 }
 
 .status-bar__left {

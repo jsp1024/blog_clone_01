@@ -1,7 +1,8 @@
 .img-box {
-    max-width: 1283px;
-    max-height: 628px;
-    margin-left: 245px;
-    margin-right: 245px;
     position: relative;
+    width: 1279px;
+    height: 626px;
+    margin-top: 80px;
+    margin-left: 313px;
+    margin-bottom: 60px;
 }
